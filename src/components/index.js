@@ -1,0 +1,5 @@
+export * from "./MenuLateral"
+export * from "./Imagen"
+export * from "./Buscador"
+export * from "./Barbeross"
+export * from "./Botoniniciales"
